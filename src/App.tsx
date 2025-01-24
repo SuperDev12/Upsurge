@@ -227,9 +227,9 @@ function App() {
                         </p>
                         <div className="space-y-4">
                           {[
-                            { icon: <Phone className="h-5 w-5 text-blue-500" />, text: "+1 (555) 123-4567" },
-                            { icon: <Mail className="h-5 w-5 text-blue-500" />, text: "contact@upsurgecapital.com" },
-                            { icon: <MapPin className="h-5 w-5 text-blue-500" />, text: "123 Financial District, New York, NY 10004" }
+                            { icon: <Phone className="h-5 w-5 text-blue-500" />, text: "022 6742 5441" },
+                            { icon: <Mail className="h-5 w-5 text-blue-500" />, text: "info@upsurgeinvestment.com" },
+                            { icon: <MapPin className="h-5 w-5 text-blue-500" />, text: "Office No. 303, Morya Landmark- I, Behind Crystal Plaza, Off New Link Road, Andheri (West), Mumbai - 400053" }
                           ].map((item, index) => (
                             <motion.div
                               key={index}
